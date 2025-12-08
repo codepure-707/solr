@@ -9,3 +9,4 @@ jira~=3.4.1
 json
 bs4
 requests
+urllib3>=2.6.0 # not directly required, pinned by Snyk to avoid a vulnerability
